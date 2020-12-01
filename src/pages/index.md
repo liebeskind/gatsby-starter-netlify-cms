@@ -5,7 +5,7 @@ image: /img/topia_sunset.png
 heading: Heading 1
 subheading: Bring people Together
 mainpitch:
-  title: Why Kaldi
+  title: Welcome to Topia
   description: >-
     The way we socialize has changed.
 
